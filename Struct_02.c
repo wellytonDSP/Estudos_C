@@ -37,4 +37,5 @@ int main(){
 	printf("Valot total a pagar: %.2f \n", imovel01.total);
 	
 	return 0;
+	
 }

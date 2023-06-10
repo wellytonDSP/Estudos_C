@@ -41,5 +41,6 @@ int main(){
 	printf("Nome: %s \n", produto2.nome);
 	printf("Quantidade: %d \n", produto2.quantidade);
 	return 0;
+
 	
 }
